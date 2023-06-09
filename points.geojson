@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::7755" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "name": "L1", "code": "lng1", "overlaps": "hin,pan", "distances": "6,155,163.37, 6,155,163.37" }, "geometry": { "type": "Point", "coordinates": [ 3637694.92020871816203, 4764321.269233047962189 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "name": "L2", "code": "lng2", "overlaps": "hin", "distances": "6,155,163.37" }, "geometry": { "type": "Point", "coordinates": [ 3726982.369812594726682, 4288882.994051282294095 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "name": "L3", "code": "lng3", "overlaps": "hin", "distances": "6,155,163.37" }, "geometry": { "type": "Point", "coordinates": [ 4318618.690186225809157, 3902640.608066484332085 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "name": "L4", "code": "lng4", "overlaps": "hin,guj", "distances": "6,155,163.37, 6,155,163.37" }, "geometry": { "type": "Point", "coordinates": [ 3270108.867697938811034, 3955787.482732754666358 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "name": "L5", "code": "lng5", "overlaps": "hin,tel", "distances": "6,155,163.37, 6,155,163.37" }, "geometry": { "type": "Point", "coordinates": [ 3755616.02660961728543, 3457520.462772764265537 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "name": "L6", "code": "lng6", "overlaps": "hin,tel,ory", "distances": "6,155,163.37, 6,155,163.37, 6,155,163.37" }, "geometry": { "type": "Point", "coordinates": [ 4056831.272944928146899, 3392278.868781369179487 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "name": "L7", "code": "lng7", "overlaps": "hin,guj,mar", "distances": "6,155,163.37, 6,155,163.37, 6,155,163.37" }, "geometry": { "type": "Point", "coordinates": [ 3351757.514271004125476, 3705352.986826328095049 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "name": "L8", "code": "lng8", "overlaps": "hin,ben", "distances": "6,155,163.37, 6,155,163.37" }, "geometry": { "type": "Point", "coordinates": [ 4700461.921046430245042, 3904366.874574409797788 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "name": "L9", "code": "lng9", "overlaps": "hin,bho", "distances": "6,155,163.37, 6,155,163.37" }, "geometry": { "type": "Point", "coordinates": [ 4511413.024358103051782, 4187384.535628927871585 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "name": "L10", "code": "lng10", "overlaps": null, "distances": null }, "geometry": { "type": "Point", "coordinates": [ 3592591.623046002350748, 3122652.675173506140709 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "name": "L11", "code": "lng11", "overlaps": "hin,mar,tel", "distances": "6,155,163.37, 6,155,163.37, 6,155,163.37" }, "geometry": { "type": "Point", "coordinates": [ 3564430.933709432370961, 3401689.6819869261235 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "name": "L12", "code": "lng12", "overlaps": "mar", "distances": "6,155,175.06" }, "geometry": { "type": "Point", "coordinates": [ 3320117.867022668011487, 3372909.103931019082665 ] } }
+]
+}
